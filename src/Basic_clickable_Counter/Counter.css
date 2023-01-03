@@ -1,0 +1,19 @@
+.counter_display {
+    color: rgb(134, 38, 3);
+    display: flex;
+    justify-content:center;
+    padding: 20px;
+}
+.counter_display_container{
+    display: flex;
+}
+.increment{
+    height: 50px;
+    color:rgb(243, 29, 232);
+    background-color: black;
+}
+.decrement{
+    height: 50px;
+    color:rgb(247, 192, 40);
+    background-color: black;
+}
